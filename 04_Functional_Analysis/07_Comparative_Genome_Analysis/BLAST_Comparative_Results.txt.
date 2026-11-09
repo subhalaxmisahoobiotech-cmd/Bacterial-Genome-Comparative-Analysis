@@ -1,0 +1,33 @@
+
+COMPARATIVE GENOME ANALYSIS USING BLASTn
+
+Organisms:
+1. Bacillus subtilis strain 168
+2. Bacillus licheniformis strain DSM 13
+
+Method:
+Local nucleotide sequence alignment using BLASTn.
+
+RESULTS:
+
+Total BLAST alignments: 782
+Average percentage identity: 86.55%
+Length-weighted identity: 83.10%
+Highest percentage identity: 100%
+Longest alignment: 19,915 bp
+
+Genome Coverage:
+B. subtilis 168: 23.28%
+B. licheniformis DSM 13: 22.81%
+
+Query bases covered: 981530 bp
+Subject bases covered: 963161 bp
+
+CONCLUSION:
+
+BLASTn analysis identified regions of nucleotide
+similarity between the two Bacillus genomes.
+The aligned regions showed variable sequence identity,
+indicating differences in sequence conservation.
+Approximately 23% of each genome was covered by
+the reported local alignments.

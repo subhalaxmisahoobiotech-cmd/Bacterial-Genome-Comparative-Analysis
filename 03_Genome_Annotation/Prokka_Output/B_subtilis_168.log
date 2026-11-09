@@ -1,0 +1,26 @@
+[13:35:43] This is prokka 1.13.3
+[13:35:43] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[13:35:43] Homepage is https://github.com/tseemann/prokka
+[13:35:43] Local time is Thu Nov  5 13:35:43 2026
+[13:35:43] You are subhalaxmisahoo
+[13:35:43] Operating system is darwin
+[13:35:43] You have BioPerl 1.007002
+[13:35:44] System has 10 cores.
+[13:35:44] Will use maximum of 2 cores.
+[13:35:44] Annotating as >>> Bacteria <<<
+[13:35:44] Generating locus_tag from '01_Genome_Sequences/B_subtilis_168_genome.fasta' contents.
+[13:35:44] Setting --locustag BPICLGHB from MD5 b92c501bd585bdf418e362a58cd5208d
+[13:35:44] Creating new output folder: 03_Genome_Annotation/Prokka_Output
+[13:35:44] Running: mkdir -p 03_Genome_Annotation\/Prokka_Output
+[13:35:44] Using filename prefix: B_subtilis_168.XXX
+[13:35:44] Setting HMMER_NCPU=1
+[13:35:44] Writing log to: 03_Genome_Annotation/Prokka_Output/B_subtilis_168.log
+[13:35:44] Command: /opt/anaconda3/envs/prokka_env/bin/prokka --outdir 03_Genome_Annotation/Prokka_Output --prefix B_subtilis_168 --genus Bacillus --species subtilis --strain 168 --kingdom Bacteria --cpus 2 01_Genome_Sequences/B_subtilis_168_genome.fasta
+[13:35:44] Appending to PATH: /opt/anaconda3/envs/prokka_env/bin
+[13:35:44] Looking for 'aragorn' - found /opt/anaconda3/envs/prokka_env/bin/aragorn
+[13:35:45] Determined aragorn version is 1.2
+[13:35:45] Looking for 'barrnap' - found /opt/anaconda3/envs/prokka_env/bin/barrnap
+[13:35:46] Determined barrnap version is 0.9
+[13:35:46] Looking for 'blastp' - found /opt/anaconda3/envs/prokka_env/bin/blastp
+[13:35:49] Determined blastp version is 2.16
+[13:35:49] Prokka needs blastp 2.2 or higher. Please upgrade and try again.

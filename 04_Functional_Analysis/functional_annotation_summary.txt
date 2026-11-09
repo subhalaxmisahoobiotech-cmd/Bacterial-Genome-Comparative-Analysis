@@ -1,0 +1,12 @@
+FUNCTIONAL ANNOTATION ANALYSIS
+Organism: Bacillus subtilis strain 168
+
+Total CDS: 4214
+Functionally described CDS: 2821
+Hypothetical proteins: 1387
+Uncharacterized proteins: 6
+Functionally described CDS percentage: 66.94%
+Hypothetical protein percentage: 32.91%
+CDS with gene names: 2734
+CDS with COG assignments: 2021
+CDS with EC numbers: 1425

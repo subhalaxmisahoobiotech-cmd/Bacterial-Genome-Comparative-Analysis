@@ -1,0 +1,7 @@
+organism: Bacillus licheniformis DSM13 
+contigs: 1
+bases: 4222336
+tmRNA: 1
+CDS: 4308
+tRNA: 71
+rRNA: 21

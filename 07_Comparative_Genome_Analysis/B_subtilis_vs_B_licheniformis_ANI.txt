@@ -1,0 +1,1 @@
+/Users/subhalaxmisahoo/Documents/Bacterial_Genome_Project./01_Genome_Sequences/B_subtilis_168_genome.fasta	/Users/subhalaxmisahoo/Documents/Bacterial_Genome_Project./01_Genome_Sequences/Comparison_Genome/B_licheniformis_DSM13_genome.fasta	79.0873	320	1405
